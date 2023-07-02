@@ -1,3 +1,5 @@
+[![MasterHead](https://assets.objkt.media/file/assets-003/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi/artifact)]
+
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 <h3 align="center">Currently I'm a Software Engineering Student at Satya Wacana Christian University.</h3>
 
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **anything, i'll answer or help as much as i can.**
 
-- 📫 How to reach me **Dm Me: https://www.instagram.com/klvnzprtm/.**
+- 📫 How to reach me **kvpratama02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
