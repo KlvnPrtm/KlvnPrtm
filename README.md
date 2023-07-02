@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C/C++, Javascript, Python Language
-- 🤔 I’m looking for help with senior of programming
+- 🌱 I’m currently learning C/C++, Javascript, and Python Language.
+- 🤔 I’m looking for help with senior of programming.
 - 💬 Ask me about anything, i'll answer or help as much as i can.
-- 📫 How to reach me: Dm Me: https://www.instagram.com/klvnzprtm/
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Dm Me: https://www.instagram.com/klvnzprtm/.
+- 😄 Pronouns: He/Him.
