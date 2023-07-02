@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 <h3 align="center">Currently I'm a Software Engineering Student at Satya Wacana Christian University.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifer.com/embed/9hw9">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1358460/screenshots/11896098/media/371c060cbef7357ff4e2f54a0408b064.jpg?compress=1&resize=1000x750&vertical=center">
 
 - 🌱 I’m currently learning **C/C++, Javascript, and Python Language.**
 
