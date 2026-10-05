@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with **with senior of programming.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KlvnPrtm/Colege](https://github.com/KlvnPrtm/Colege)
-
 - 💬 Ask me about **anything, i'll answer or help as much as i can.**
 
 - 📫 How to reach me **kvpratama02@gmail.com**
